@@ -56,6 +56,7 @@
     - [Building microservices' architecture with GraalVM](#building-microservices-architecture-with-graalvm)
     - [Case study – online book library](#case-study--online-book-library)
     - [Exploring modern microservices frameworks](#exploring-modern-microservices-frameworks)
+- [**References/Bibliography**](#referencesbibliography)
 
 # **Intro to JVM**
 
@@ -130,3 +131,11 @@
 ### Building microservices' architecture with GraalVM
 ### Case study – online book library
 ### Exploring modern microservices frameworks
+
+# **References/Bibliography**
+
+> [1]
+> A. Kumar y an O. M. C. Safari, Supercharge Your Applications with
+>  GraalVM. 2021 [Online]. Disponible en: 
+>  https://go.oreilly.com/queensland-university-of-technology/library/view/-/9781800564909/?ar. 
+>  [Accedido: 26-sep-2021]
